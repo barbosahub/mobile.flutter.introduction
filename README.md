@@ -6,7 +6,7 @@ Objetivo do projeto: Primeiros passos com Flutter e Dart
 
 
 <p align="left">
-  <img src="https://github.com/barbosahub/mobile.flutter.introduction/blob/main/photo_albums/lib/core/gif.gif" width="200" alt="Gif de cálculo de cotação" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/mobile.flutter.introduction/blob/main/firstproject/gif.gif" width="200" alt="Gif de cálculo de cotação" style=" border: 5px solid #555">
 </p>
 
 ## Sobre
